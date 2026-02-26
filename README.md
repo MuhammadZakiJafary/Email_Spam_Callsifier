@@ -42,8 +42,6 @@ Email-Spam-Classifier/
 ├── requirements.txt
 └── README.md
 ▶️ How to Run the Project
-1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
 
 2️⃣ Install required libraries
 pip install -r requirements.txt
